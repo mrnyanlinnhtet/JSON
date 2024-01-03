@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<friendList>
+
+ <friend title="myfriendlist">
+  <name>Aung Aung</name>
+  <email>aung@gmail.com</email>
+  <address>Sittwe</address>
+ </friend>
+
+ <friend title="herfriendlist">
+  <name>Naung Naung</name>
+  <email>naung@gmai.com</email>
+  <address>Kyauktaw</address>
+ </friend>
+
+
+
+</friendList>

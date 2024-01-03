@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<friend_list>
+
+    <firend>
+        <name title="myFriendList">Aye Myat Mon</name>
+        <phone>0933344566</phone>
+        <email>ayemyatmon.sandi@gmail.com</email>
+        <adress>Yangon</adress>
+    </firend>
+
+    <firend>
+        <name title="herFriendList">Yoon Myat Sandi</name>
+        <phone>3334456666</phone>
+        <email>yoon@gmail.com</email>
+        <address>Sittwe</address>
+
+    </firend>
+</friend_list>

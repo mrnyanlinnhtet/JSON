@@ -1,0 +1,48 @@
+Before namespace
+=============================
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<arc>
+
+  <versionUpdate>
+
+   <number>1.0</number>
+   <formark>1</formark>
+
+  </versionUpdate>
+
+  <versionUpdate>
+
+   <number>2.1</number>
+   <reactor>fussion reactor</reactor>
+
+  </versionUpdate>
+
+</arc>
+
+
+After namespace
+=============================
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<arc>
+
+  <v:versionUpdate>
+
+   <n:number>1.0</n:number>
+   <f:formark>1<f:/formark>
+
+  </v:versionUpdate>
+
+  <fv:versionUpdate>
+
+   <vn:number>2.1<vn:/number>
+   <r:reactor>fussion reactor</r:reactor>
+
+  <fv:/versionUpdate>
+
+</arc>
+
+:name ( is key for namespace )

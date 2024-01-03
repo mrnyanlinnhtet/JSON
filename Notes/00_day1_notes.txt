@@ -1,0 +1,22 @@
+XML = eXtensible Markup Language
+
+eXtensible = exten your notating
+
+XML is not all the same HTML. But both are Markup Language.
+XML is used to describe data. HTML is used to display the data.
+XML must define custom rules (tags). HTML has pre-define rules (tags).
+
+XML Document = Describe data (XML was designed to describe data and to focus on what data is.)
+HTML Document = Display data (HTML was designed to display data and focus on how data look.)
+
+eg.
+
+Product List                              Root Element (Parent Element)
+      Product                             Child of root element (Child Element)
+          Name                            Root Node
+          Price                           Root Node
+          Description                     Root Node
+
+
+All XML document must start with XML Declaration.
+<? xml version="1.0" encoding="UTF-8" ?>

@@ -1,0 +1,8 @@
+=> XSD means XML Schema Definitions.
+XSD can define what elements and attributes can be represented.
+XSD can specify the element of data types.
+
+=> XSD and DTD use for XML Validation, to check syntax and structure.
+(1) XSD (XML Schema Definitions)
+(2) DTD (Document Type Definitions)
+https://www.liquid-technologies.com/online-xml-to-xsd-converter
